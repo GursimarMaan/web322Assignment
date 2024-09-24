@@ -5,8 +5,8 @@ Student Number: 149325227
 Student Email: gmaan3@myseneca.ca
 Date Created: 23/09/2024
 
-GITHUB URL:  
-VERCEL URL:   
+GITHUB URL:  https://github.com/GursimarMaan/web322_Assignment
+VERCEL URL:   https://web322-assignment-psi-eight.vercel.app/
 
 ### Technology Stack
 
